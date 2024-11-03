@@ -3,6 +3,7 @@
 
 # VALORANT Instalocker
 A VALORANT Instalocker with a clean GUI
+1. Passwort on my Discord: @sushiirez
 
 <br>
 
