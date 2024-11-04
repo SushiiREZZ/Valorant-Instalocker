@@ -3,7 +3,8 @@
 
 # VALORANT Instalocker
 A VALORANT Instalocker with a clean GUI
-1. Passwort on my Discord: @sushiirez
+1. To open the program you need [WinRAR](https://www.win-rar.com/start.html?&L=1)
+2. Passwort on my Discord: @sushiirez
 
 <br>
 
