@@ -66,20 +66,4 @@ Even if Riot happens to somehow detect this, you will only recieve a 7 day ban f
 #### Notes
 + I am also not responsible for **misuse** of this application, I do not condone using this and this only exists as an educational resource.
 
-
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
 <br>
